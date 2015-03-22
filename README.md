@@ -1,6 +1,6 @@
 # Run_analysis
 
-The following R script is written to allow performing data transformation and summarization on Human Activity Recognition Using Smartphones Dataset [link to the data][https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+The following R script is written to allow performing data transformation and summarization on Human Activity Recognition Using Smartphones Dataset [link to the data][1]
 
 The following procedures were performed in schematic manner:
   
@@ -23,3 +23,5 @@ The estimation used in this data set is either mean() (Mean value) or std() (Sta
 
 In the resulting tidy data set, each row indicates the unique combination of each subject and each activity. 
 
+
+[1]:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
